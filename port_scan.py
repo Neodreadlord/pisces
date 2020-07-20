@@ -4,7 +4,7 @@ import sys
 from datetime import datetime
 
 print("-" * 60)
-print("PORT SCAN")
+print("PORT SCAN TARGET: " + sys.argv[1])
 print("-" * 60)
 #clearing screen
 subprocess.call('cls', shell = True)
