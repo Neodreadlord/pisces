@@ -1,4 +1,1 @@
-SQLi 1.1
-XSS 1.1
-Pscan 1.1
-Escan 1.1
+I last updated the 4 scan files at 3.28am on 20/07/2020
