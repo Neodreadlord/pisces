@@ -1,2 +1,4 @@
 Updated Sqli_scan.py to reflect target in output - 20/07/2020 20:48
-
+Updated Xss_scan.py to reflect target in output - 20/07/2020 22:05
+Updated Port Scan to reflect target in output - 20/07/2020 22:05
+Updated Cipher Scan to reflect target in output - 20/07/2020 22:06
