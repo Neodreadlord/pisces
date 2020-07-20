@@ -2,9 +2,10 @@ import requests
 from pprint import pprint
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin
+import sys
 
 print("-" * 60)
-print("CROSS SITE SCRIPTING SCAN")
+print("CROSS SITE SCRIPTING SCAN TARGET: " + sys.argv[1])
 print("-" * 60)
 #To retrieve and parse all area's where an XSS injection can be utilised
 def get_forms(url):
@@ -103,7 +104,6 @@ def scan_xss(url):
     return is_vulnerable
 
 if __name__ == "__main__":
-    import sys
     url = sys.argv[1]
     scan_xss(url)
 
