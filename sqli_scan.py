@@ -2,9 +2,10 @@ import requests
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin
 from pprint import pprint
+import sys
 
 print("-" * 60)
-print("SQL INJECTION SCAN")
+print("SQL INJECTION SCAN TARGET: " + sys.argv[1])
 print("-" * 60)
 s = requests.Session()
 s.headers["User-Agent"] = \
@@ -116,6 +117,5 @@ def scan_sql_injection(url):
 
 
 if __name__ == "__main__":
-    import sys
     url = sys.argv[1]
     scan_sql_injection(url)
