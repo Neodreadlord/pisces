@@ -3,7 +3,7 @@ import sys
 import binascii
 
 print("-" * 60)
-print("CIPHER SCAN")
+print("CIPHER SCAN TARGET: " + sys.argv[1])
 print("-" * 60)
 
 # Target url and port
