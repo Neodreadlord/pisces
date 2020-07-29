@@ -11,8 +11,9 @@ Download [Here](https://www.python.org/downloads/release/python-375/)
 
 DOWNLOADS:
 
-Download the first complete version of PISCES
-[Pisces Setup version 1.0](https://github.com/Neodreadlord/pisces/raw/master/Setup.exe)
+Download the first complete version of PISCES:
+
+[Pisces Setup version 1.0](https://github.com/Neodreadlord/pisces/raw/master/Setup.exe)  for windows
 
 
 
