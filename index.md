@@ -7,7 +7,7 @@ Created by @Neodreadlord
 DOWNLOADS:
 
 Download the first complete version of PISCES
-[Pisces Setup version 1.0](setup.exe)
+[Pisces Setup version 1.0](https://github.com/Neodreadlord/pisces/raw/master/Setup.exe)
 
 updated files for PISCES application
 [Sql Scan](sqli_scan.py)
