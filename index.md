@@ -14,7 +14,10 @@ DOWNLOADS:
 Download the first complete version of PISCES
 [Pisces Setup version 1.0](https://github.com/Neodreadlord/pisces/raw/master/Setup.exe)
 
-updated files for PISCES application
+
+
+updated files for PISCES application:
+
 [Sql Scan](sqli_scan.py)
 [Xss Scan](xss_scan.py)
 [Port Scan](port_scan.py)
