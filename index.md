@@ -6,6 +6,7 @@ Created by @Neodreadlord
 
 In order to run Pisces, you will have to have Python 3.7.5 or greater installed.
 Download [Here](https://www.python.org/downloads/release/python-375/)
+
 DOWNLOADS:
 
 Download the first complete version of PISCES
