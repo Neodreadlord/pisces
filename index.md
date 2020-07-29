@@ -2,7 +2,7 @@
 This page is set up as a test repository for the project
 
 ![image](images/splash.gif)
-### Authors and Contributors
+### Authors and Contributors ###
 Created by @Neodreadlord
 
 In order to run Pisces, you will have to have Python 3.7.5 or greater installed.
