@@ -1,7 +1,8 @@
 ### Welcome to MOBTech's PISCES project
 This page is set up as a test repository for the project
 
-<div align=center> ![image](images/splash.gif) </div>
+### ![image](images/splash.gif)
+
 ### Authors and Contributors
 Created by @Neodreadlord
 
