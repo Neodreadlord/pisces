@@ -1,0 +1,68 @@
+SQLi Scan and XSS Scan require the format of the input for the target to be:
+"www.address.com/target/index.html"
+
+DO NOT include the http:// or https:// as this can cause issues for different
+scans.
+
+Port Scan and Cipher Scan both require the input for the target to be: 
+"www.myurl.com"
+
+DO NOT include any individual page as this will cause your scan to fail.
+also DO NOT include http:// or https:// for the same reason.
+
+The ports field is only used for port scan and cipher scan
+for port scan you can identify an individual port, i.e: 9999
+or multiple ports i.e: 80-90
+
+Please Note, that the more ports you choose to scan, the longer it will take 
+it to run. Be patient and it will return your results. 
+If after a period of time it has not returned results, check the address input
+to ensure you have only supplied the domain name without any individual pages 
+or folders, and that you have also not included http:// or https://
+
+For the Cipher Scan when using the port field, only specify a single port.
+This scan is not yet capable of scanning multiple ports at once.
+ 
+If your result does not return, then again as above, ensure you have supplied
+only the domain name without any additional folders or pages, and that you have 
+also not included http:// or https://
+
+Please note:
+That the application automatically will download up to date scan scripts from 
+the internet. Should you hit a problem where your scans are inexplicably 
+failing, then please close the application and re-open it this will ensure the 
+application downloads the most up to date scan files available. Also, you can 
+click the Update button in the application.
+
+When exporting your results, the application will create a folder within the 
+Documents folder of the logged in user, called PISCES. All exported files will 
+be saved within this folder with the date they were scanned/exported.
+
+If you use the clear button, your results WILL NOT be saved. Ensure you have 
+exported if you want to keep your results Also if you quit the application, 
+your results WILL NOT be saved. Ensure you export before quitting.
+
+Thank you for using PISCES!
+
+This document will be updated as there are new releases, Within the 
+Pisces\Scripts folder there is a file called Updated.txt which will contain 
+any information about dynamic updates that may have occurred, which you can 
+also view by clicking the update button within the application.
+
+
+Many Thanks
+The Developer
+MOBTech
+
+
+|******************************************************************|
+||	#     # ####### ######  #######                           ||
+||	##   ## #     # #     #    #    ######  ####  #    #      ||
+||	# # # # #     # #     #    #    #      #    # #    #      ||
+||	#  #  # #     # ######     #    #####  #      ######      ||
+||	#     # #     # #     #    #    #      #      #    #	  			||
+||	#     # #     # #     #    #    #      #    # #    #      ||
+||	#     # ####### ######     #    ######  ####  #    #	  			||
+||								  ||
+|******************************************************************|
+
