@@ -25,7 +25,7 @@ updated files for PISCES application:
 
 [Port Scan](port_scan.py)
 
-[Cipher Scan](cipher_scan.py)
+[Cipher Scan](test_ciphers.py)
 
 [Updated Text File](updated.txt)
 
