@@ -1,5 +1,4 @@
 ### Welcome to MOBTech's PISCES project
-This page is set up as a test repository for the project
 
 ### ![image](images/splash.gif)
 
