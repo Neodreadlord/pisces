@@ -9,6 +9,8 @@ In order to run Pisces, it currently requires Visual Studio for Python Developme
 This will install the correct version of Python as well as some other features it requires. 
 Future versions will move away from this dependency but for now it is a pre-requisite.
 
+Download [here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
+
 
 Download [Here](https://www.python.org/downloads/release/python-375/)
 
