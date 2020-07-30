@@ -6,7 +6,11 @@ This page is set up as a test repository for the project
 ### Authors and Contributors
 Created by @Neodreadlord
 
-In order to run Pisces, you will have to have Python 3.7.5 or greater installed.
+In order to run Pisces, it currently requires Visual Studio for Python Development to be installed.
+This will install the correct version of Python as well as some other features it requires. 
+Future versions will move away from this dependency but for now it is a pre-requisite.
+
+
 Download [Here](https://www.python.org/downloads/release/python-375/)
 
 DOWNLOADS:
