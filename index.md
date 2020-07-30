@@ -11,9 +11,6 @@ Future versions will move away from this dependency but for now it is a pre-requ
 
 Download [here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
 
-
-Download [Here](https://www.python.org/downloads/release/python-375/)
-
 DOWNLOADS:
 
 Download the first complete version of PISCES:
