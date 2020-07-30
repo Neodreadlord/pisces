@@ -19,7 +19,9 @@ Download the first complete version of PISCES:
 
 
 
-updated files for PISCES application:
+## updated files for PISCES application:
+These are only optional and not required.
+These versions are included within the application installation automatically.
 
 [Sql Scan](sqli_scan.py)
 
