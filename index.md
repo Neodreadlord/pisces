@@ -1,8 +1,8 @@
-### Welcome to MOBTech's PISCES project
+## Welcome to MOBTech's PISCES project
 
-### ![image](images/splash.gif)
+## ![image](images/splash.gif)
 
-### Authors and Contributors
+## Authors and Contributors
 Created by @Neodreadlord
 
 In order to run Pisces, it currently requires Visual Studio for Python Development to be installed.
@@ -11,7 +11,7 @@ Future versions will move away from this dependency but for now it is a pre-requ
 
 Download [here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
 
-### DOWNLOADS:
+## DOWNLOADS:
 
 Download the first complete version of PISCES:
 
